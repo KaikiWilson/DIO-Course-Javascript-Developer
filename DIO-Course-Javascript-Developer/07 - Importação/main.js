@@ -1,5 +1,7 @@
 const { gets, print } = require('./funcoes-auxiliares');
 
+//print(gets());
+
 const numerosSorteados = [];
 
 for (let i = 0; i < 5; i++) {
