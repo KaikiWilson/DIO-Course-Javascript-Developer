@@ -81,8 +81,9 @@
 
 .pokemons {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     list-style: none;
+    width: 60rem;
     padding: 0;
     margin: 0;
 }
