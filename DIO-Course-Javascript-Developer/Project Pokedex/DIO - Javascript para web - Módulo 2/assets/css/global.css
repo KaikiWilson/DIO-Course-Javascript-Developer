@@ -22,6 +22,8 @@ body {
 
 @media screen and (max-width: 393px) {
     .content {
+        max-width: 393px;
+        height: auto;
         margin-left: 10%;
         margin-right: 10%;
     }
@@ -34,8 +36,11 @@ body {
 
 @media screen and (min-width: 394px) and (max-width: 587px) {
     .content {
-        margin-left: 15%;
-        margin-right: 15%;
+        max-width: 587px;
+        height: auto;
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 31rem;
     }
     
     .content .pokemons {
